@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+    <channel id="1AlmereTV.nl">
+        <display-name>1Almere TV (720p)</display-name>
+        <icon src="https://i.imgur.com/XfkbTrU.png"/>
+    </channel>
+    <programme start="20240505000000 +0000" stop="20240505010000 +0000" channel="1AlmereTV.nl">
+        <title lang="en">1Almere TV (720p)</title>
+        <desc lang="en">1Almere TV (720p)</desc>
+    </programme>
+</tv>
